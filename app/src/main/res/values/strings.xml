@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PersianText2Speech</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Step1">-1متنی را وارد کنید</string>
+    <string name="Step2">خواندن علائم</string>
+    <string name="Step3">سرعت خواندن</string>
+    <string name="volume">بلندی</string>
+    <string name="pitch">زیر و بمی</string>
+    <string name="rate">سرعت</string>
+    <string name="play">پخش صدا</string>
+    <string name="proceed">مرحله بعد</string>
+    <string name="enteredtext">متن وارد شده:</string>
+    <string name="duration">مدت زمان:</string>
+    <string name="size">حجم فایل:</string>
+    <string name="stop">قطع پخش</string>
+    <string name="mms">ام ام اس</string>
+    <string name="whatsapp">واتساپ</string>
+    <string name="telegram">تلگرام</string>
+    <string-array name="Punctuation">
+        <item>هیچ کدام</item>
+        <item>بعضی</item>
+        <item>بیشتر</item>
+        <item>تماما</item>
+    </string-array>
+</resources>
